@@ -1,5 +1,4 @@
 ## Hi there 👋
-I'm Yurii
 <!--
 **yur-dov/yur-dov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
