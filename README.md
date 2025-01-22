@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50" height="50"/>
@@ -27,6 +27,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="50" height="50"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="50" height="50"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+</div>
           
 <!--
 **yur-dov/yur-dov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
