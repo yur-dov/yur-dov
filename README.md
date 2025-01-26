@@ -81,7 +81,7 @@ My stack:
 
 <p align="center"> Social links:</p>
 <p align="center">Linkedin:   www.linkedin.com/in/yurii-dovhyi</p>
-<p align="center">Telegram: https://t.me/@Yur-Dov</p>
+<p align="center">Telegram: https://t.me/Yur-Dov</p>
 <!--
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" align="left" width="50" height="50"/>
